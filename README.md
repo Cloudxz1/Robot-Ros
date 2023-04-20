@@ -1,12 +1,12 @@
 # Repositorio de los codigos de la práctica verano 2023 - UCN
 ## En este repositorio encontradas los codigos creados para los siguientes sensores y actuadores:
-**- GPS **
-* * IMU (Inertial Measurement Unit o Unidad de medición inercial) 
-** - LiDAR **
-** - Ultrasonicos (6 unidades) **
-** - Drivers de motores DC (2 unidades) **
-** - Encoders (2 unidades) **
-** - Joystick **
+**- GPS *** 
+**- IMU (Inertial Measurement Unit o Unidad de medición inercial) ***
+**- LiDAR ***
+**- Ultrasonicos (6 unidades) ***
+**- Drivers de motores DC (2 unidades) ***
+**- Encoders (2 unidades) ***
+**- Joystick ***
 
 ## Proposito
 ### El proposito de este repositorio es para el libre acceso de las personas participantes del
