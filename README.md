@@ -10,4 +10,4 @@
 **- Joystick**
 
 ## Proposito
-### El proposito de este repositorio es para el libre acceso de las personas participantes del proyecto a cargo del Dr. Alvaro Prado Romo, como tambien modificar y agregar ficheros para una buena optimizacion de codigo y funcionabilidad de la plataforma robotica
+**El proposito de este repositorio es para el libre acceso de las personas participantes del proyecto a cargo del Dr. Alvaro Prado Romo, como tambien modificar y agregar ficheros para una buena optimizacion de codigo y funcionabilidad de la plataforma robotica**
