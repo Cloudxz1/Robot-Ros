@@ -1,7 +1,7 @@
 # Repositorio de los codigos de la práctica verano 2023  UCN
 ## En este repositorio encontradas los codigos creados para los siguientes sensores y actuadores:
 
-- IMU 
+- IMU (Inertial Measurement Unit o Unidad de medición inercial)
 - LiDAR
 - Ultrasonicos (6 unidades)
 - Drivers de motores DC (2 unidades)
