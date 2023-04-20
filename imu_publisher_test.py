@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
+
+#Libraries IMU MPU-9250
 import os
 import sys
 import time
 import smbus
 from imusensor.MPU9250 import MPU9250
 
+#Libraries ROS 
 import rospy 
 from sensor_msgs.msg import Imu
 #from geometry_msgs.msg import Vector3,Quaternion

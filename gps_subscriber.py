@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 import io
 import pynmea2
 
@@ -8,6 +9,7 @@ from geometry_msgs.msg import Quaternion
 from std_msgs.msg import String
 from sensor_msgs.msg import NavSatFix
 
+#Declaration of variables
 latidude = 0
 longitude = 0
 velocity = 0
