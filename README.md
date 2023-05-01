@@ -25,3 +25,5 @@ En las carpetas del paquete existe una carpeta llamada "launch" con un fichero d
 El type es el fichero con la codificación del sensor donde el paquete que se indica buscara el fichero, si no lo encuentra, arrojara un error de que no fue encontrado el fichero o en casos que no exista el paquete tambien lo notificará. Para ejecutar con el fichero .launch es la siguiente:
 
 > roslaunch pwm_controller node_launch.launch
+
+Al ser un fichero launch, tiene la ventaja que podemos editar y añadir más nodos con el proposito de no ocupar muchos terminales a la hora de ejecutar cada uno los nodos publicadores, maximizar y optimizar la carga de datos para la raspberry pi 4 a la hora de consultar a los nodos subscriptores de los sensores implementados en la plataforma robotica movil.
