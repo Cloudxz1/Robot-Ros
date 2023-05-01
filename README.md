@@ -20,7 +20,7 @@ Independientemente del SO que se utilice pueden ser utilizado en Windows/Linux a
 
 En las carpetas del paquete existe una carpeta llamada "launch" con un fichero de .launch con una sintaxis XML con los nodos publicadores para ser lanzados exceptuando el nodo de los actuadores con joystick. En las cuales para añadir un nodo en el fichero se utiliza la siguiente sintaxis.
 
-> <node name="gps_publisher" pkg="pwm_controller" type="gps_publish.py"/>
+> ><node name="gps_publisher" pkg="pwm_controller" type="gps_publish.py"/>
 
 El type es el fichero con la codificación del sensor donde el paquete que se indica buscara el fichero, si no lo encuentra, arrojara un error de que no fue encontrado el fichero o en casos que no exista el paquete tambien lo notificará. Para ejecutar con el fichero .launch es la siguiente:
 
