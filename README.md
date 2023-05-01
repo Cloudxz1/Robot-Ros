@@ -9,7 +9,7 @@ En este repositorio encontradas los codigos creados para los siguientes sensores
 - Joystick
 
 ## Proposito
-El proposito de este repositorio es para el libre acceso de las personas participantes del proyecto a cargo del Dr. Alvaro Prado Romo, como tambien modificar y agregar ficheros para una buena optimizacion de codigo y funcionabilidad de la plataforma robotica
+El proposito de este repositorio es para el libre acceso de las personas participantes del proyecto a cargo del Dr. Alvaro Prado Romo, como tambien modificar y agregar ficheros para una buena optimizacion de codigo y funcionabilidad de la plataforma robotica.
 
 ## Comandos
 Independientemente del SO que se utilice pueden ser utilizado en Windows/Linux a traves del cmd o un programa externo como Putty con los siguientes comandos:
